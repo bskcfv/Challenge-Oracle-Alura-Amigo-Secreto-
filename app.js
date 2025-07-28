@@ -29,7 +29,7 @@ function actualizarLista(v_lista) {
     // i --> Representa Cada Nombre Contenido en el Array
     for(let i of v_lista){
         //Agrega un Elemento de Caracter <u></u> Con Cada Nombre
-        listahtml.innerHTML += `<ul>${i}</ul>`
+        listahtml.innerHTML += `<li>${i}</li>`
     }; 
 }
 
