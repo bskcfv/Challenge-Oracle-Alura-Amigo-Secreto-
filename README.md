@@ -18,6 +18,11 @@
 - `Function actualizarLista()`: Recorrer el array amigos y agregar cada nombre como un elemento dentro de una lista HTML.
 - `Function sortearAmigo()`: Seleccionar de manera aleatoria uno de los nombres almacenados en el array amigos.
 
+## Construido con 🛠️
+* JavaScript
+* HTML
+* CSS
+
  ## Autor ✒️
 * **Cristian Valderrama** - [bskcfv](https://github.com/bskcfv)
 
